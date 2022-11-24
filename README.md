@@ -6,10 +6,10 @@
 
 |  | | | |
 |------:|-----------|-----------|-----------|
-|<img alt="JS" src="./assets/js.gif" width="80" height="80">| JavaScript |<img alt="TypeScript" src="./assets/typescript.svg" width="80" height="80">| TypeScript
+|<img alt="JS" src="https://raw.githubusercontent.com/FabioTw/FabioTw/main/assets/JS.gif" width="80" height="80">| JavaScript |<img alt="TypeScript" src="./assets/typescript.svg" width="80" height="80">| TypeScript
 |<img alt="Node" src="./assets/node.gif" width="80" height="90">| Node.js|<img alt="React" src="./assets/react.gif" width="80" height="80">| React
-|<img alt="HTML" src="./assets/HTML.gif" width="80" height="80">| HTML |<img alt="CSS" src="./assets/css.gif" width="80" height="80">| CSS
-|<img alt="PostgreSQL" src="./assets/postgresql.svg" width="80" height="80">|PostgreSQL|<img alt="MongoDB" src="./assets/MongoDB.svg" width="80" height="80">|MongoDB
+|<img alt="HTML" src="https://raw.githubusercontent.com/FabioTw/FabioTw/main/assets/html.gif" width="80" height="80">| HTML |<img alt="CSS" src="./assets/css.gif" width="80" height="80">| CSS
+|<img alt="PostgreSQL" src="./assets/postgresql.svg" width="80" height="80">|PostgreSQL|<img alt="MongoDB" src="https://raw.githubusercontent.com/FabioTw/FabioTw/6df546f65a8b9cad122743e09da40be9d7b62187/assets/mongodb.svg" width="80" height="80">|MongoDB
 |<img alt="PostgreSQL" src="./assets/redux.svg" width="80" height="80">|Redux|<img alt="MongoDB" src="./assets/sass.svg" width="80" height="80">|SASS
 
 </details>
